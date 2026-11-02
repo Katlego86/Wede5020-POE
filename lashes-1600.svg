@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" role="img" aria-labelledby="title desc">
+<title id="title">Lash services</title>
+<desc id="desc">Elegant lash services.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f7dce7"/>
+    <stop offset="1" stop-color="#c987a4"/>
+  </linearGradient>
+</defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<circle cx="800" cy="516" r="276" fill="#fff7fa" opacity=".62"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Georgia, serif" font-size="88" fill="#4b2938">LASHES</text>
+<text x="50%" y="58%" text-anchor="middle" font-family="Arial, sans-serif" font-size="35" fill="#6b4453">Soft • Defined • Beautiful</text>
+</svg>

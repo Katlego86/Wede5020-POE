@@ -1,0 +1,5 @@
+# Source preview: replace using tools/build.py with the public HTTPS URL.
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+Sitemap: https://ledelicate.example/sitemap.xml

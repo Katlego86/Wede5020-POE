@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Source preview URL only. tools/build.py generates the public sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://ledelicate.example/</loc></url>
+<url><loc>https://ledelicate.example/about.html</loc></url>
+<url><loc>https://ledelicate.example/services.html</loc></url>
+<url><loc>https://ledelicate.example/classes.html</loc></url>
+<url><loc>https://ledelicate.example/enquiry.html</loc></url>
+<url><loc>https://ledelicate.example/contact.html</loc></url>
+</urlset>

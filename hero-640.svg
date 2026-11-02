@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+<title id="title">Le Delicate beauty studio</title>
+<desc id="desc">A soft editorial beauty studio visual.</desc>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f7dce7"/>
+    <stop offset="1" stop-color="#c987a4"/>
+  </linearGradient>
+</defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<circle cx="320" cy="206" r="110" fill="#fff7fa" opacity=".62"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Georgia, serif" font-size="35" fill="#4b2938">LE DELICATE</text>
+<text x="50%" y="58%" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6b4453">Beauty • Care • Confidence</text>
+</svg>
